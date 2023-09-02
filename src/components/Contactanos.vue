@@ -15,7 +15,7 @@ export default {
   name: "Contactanos",
   methods: {
     handleClick(){
-      alert('992928323')
+      alert('992928366')
     }
   }
 
