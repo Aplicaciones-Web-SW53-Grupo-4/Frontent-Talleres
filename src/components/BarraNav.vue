@@ -4,6 +4,7 @@ import Inicio from './Inicio.vue';
 import Nosotros from './Nosotros.vue';
 import AcercaDe from './AcercaDe.vue';
 import Contactanos from "@/components/Contactanos.vue";
+import Registro from "@/components/Registro.vue";
 
 </script>
 <template>
@@ -12,6 +13,7 @@ import Contactanos from "@/components/Contactanos.vue";
     <Nosotros />
     <Beneficios/>
     <AcercaDe/>
+    <Registro/>
     <Contactanos/>
   </div>
 </template>
